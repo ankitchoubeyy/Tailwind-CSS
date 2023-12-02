@@ -66,7 +66,7 @@ module.exports = {
 }
 ```
 
->> **Note:** Tailwind CSS uses **JIT** (Just in Time) copmiler to run an utilites classes.
+> **Note:** Tailwind CSS uses **JIT** (Just in Time) copmiler to run an utilites classes.
 
 ### Resusing Styles 
 To resuse same style again and again you can use different Resusing styles methods which are given below:-
